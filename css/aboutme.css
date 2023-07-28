@@ -1,4 +1,34 @@
 .aboutme{
     color: white;
-    margin-left: 50%;
+    margin-left: 5%;
 }
+.aboutme h1{
+    color: orange;
+}
+.aboutme1{
+    color: white;
+    margin-left: 5%;
+}
+.portfolio{
+    color: white;
+    margin-left: 5%;
+}
+.portfolio h1{
+    color: orange;
+}
+.contact{
+    color: white;
+    margin-left: 5%;
+}
+.contact h1{
+    color: orange;   
+}
+footer{
+    color: white;
+    padding: auto;
+    margin-right: 10%;
+    float: right;
+}
+
+   
+
